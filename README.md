@@ -1,4 +1,4 @@
-# Full-Stack User Authentication System
+# Full-Stack User Authentication System (Verifica)
 
 Sistema completo di gestione utenze che integra un frontend dinamico in **Angular 17+** e un backend robusto in **Spring Boot 3.x** con persistenza dati su database **H2**.
 
